@@ -1,34 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+DEMO
 
-## Getting Started
+https://googlenxt.vercel.app/
 
-First, run the development server:
+OVERVIEW
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+This is a google clone made in Next JS, here i show the power of Tailwind CSS and Next server rendering to make use of the google API for searching the web, and also implementing pagination,ability to move from one page to another.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+TECHNOLOGIES
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+React,
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Next,
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Tailwind,
 
-## Learn More
+Javascript,
 
-To learn more about Next.js, take a look at the following resources:
+Vercel,
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Google API.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+FOOTAGE
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![googlef1](https://user-images.githubusercontent.com/110302280/193448897-5cd27429-d33a-44a6-8215-48de52b37737.png)
+![googlef2](https://user-images.githubusercontent.com/110302280/193448900-403670cb-89f8-4717-98e8-276e76ca41a2.png)
+![googlef3](https://user-images.githubusercontent.com/110302280/193448904-f0d834ca-6ebd-4b9e-a711-23f6fe6d8fce.png)
